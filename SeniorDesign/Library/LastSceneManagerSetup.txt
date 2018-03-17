@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Brian/Downloads/Introduction-To-HTC-Vive-Starter-1/Introduction-To-HTC-Vive-Starter/Introduction
+    To HTC Vive - Starter/Assets/AtchimaScene.unity
+  isLoaded: 1
+  isActive: 1
