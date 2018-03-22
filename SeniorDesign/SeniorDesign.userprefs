@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="SeniorDesign.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LeapMotion\Modules\InteractionEngine\Scripts\InteractionXRController.cs">
+    <Files>
+      <File FileName="Assets\LeapMotion\Modules\InteractionEngine\Scripts\InteractionXRController.cs" Line="597" Column="76" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
