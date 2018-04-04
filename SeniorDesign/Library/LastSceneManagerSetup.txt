@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/TestEnvironment_Jaylyn.unity
+- path: Assets/building_hands.unity
   isLoaded: 1
   isActive: 1

@@ -156,7 +156,6 @@ namespace Leap.Unity{
 
     /** Returns the width of the finger bone.*/
     public float GetBoneWidth(int bone_type) {
-
       return finger_.Bone((Bone.BoneType)(bone_type)).Width;
     }
 

@@ -53,11 +53,10 @@ namespace Leap.Unity {
 
     private void findBoneTransforms(bool useMetaCarpals) {
       if (!useMetaCarpals || fingerType == Finger.FingerType.TYPE_THUMB) {
-                bones[0] = transform;
-                bones[1] = transform.GetChild(0).transform;
-                bones[2] = transform.GetChild(0).transform.GetChild(0).transform;
-                bones[3] = transform.GetChild(0).transform.GetChild(0).transform.GetChild(0).transform;
-            }
+        bones[1] = transform;
+        bones[2] = transform.GetChild(0).transform;
+        bones[3] = transform.GetChild(0).transform.GetChild(0).transform;
+      }
       else {
         bones[0] = transform;
         bones[1] = transform.GetChild(0).transform;
